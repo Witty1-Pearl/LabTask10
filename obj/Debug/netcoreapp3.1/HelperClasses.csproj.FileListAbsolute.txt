@@ -1,0 +1,4 @@
+C:\CodebitsAcademy\C#\LabTask-10\HelperClasses\obj\Debug\netcoreapp3.1\HelperClasses.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask-10\HelperClasses\obj\Debug\netcoreapp3.1\HelperClasses.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask-10\HelperClasses\obj\Debug\netcoreapp3.1\HelperClasses.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask-10\HelperClasses\obj\Debug\netcoreapp3.1\HelperClasses.csproj.CoreCompileInputs.cache
